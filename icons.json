@@ -3,12 +3,12 @@
     "description": "rt",
     "icons": [
         {
-            "name": "Funmedia1",
-            "url": "https://raw.githubusercontent.com/ginibond/ginibond/main/Icons/collection/Funmedia1.png"
+            "name": "Funmedia",
+            "url": "https://raw.githubusercontent.com/weiandox/emby_icons/main/icons/Funmedia.png"
         },
         {
-            "name": "Funmedia2",
-            "url": "https://raw.githubusercontent.com/ginibond/ginibond/main/Icons/collection/Funmedia2.png"
+            "name": "Jms",
+            "url": "https://raw.githubusercontent.com/weiandox/emby_icons/main/icons/Jms.png"
         }
     ]
 }
