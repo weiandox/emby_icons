@@ -1,0 +1,14 @@
+{
+    "name": "Emby图标库@hunter",
+    "description": "rt",
+    "icons": [
+        {
+            "name": "Funmedia1",
+            "url": "https://raw.githubusercontent.com/ginibond/ginibond/main/Icons/collection/Funmedia1.png"
+        },
+        {
+            "name": "Funmedia2",
+            "url": "https://raw.githubusercontent.com/ginibond/ginibond/main/Icons/collection/Funmedia2.png"
+        }
+    ]
+}
